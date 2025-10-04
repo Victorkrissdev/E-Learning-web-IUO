@@ -1,2 +1,1 @@
-# E-Learning-web-IUO
-These Repo is basically on School Related Project Like Student Management System and School Website 
+This repository contains projects focused on academic and school-related systems. The primary goal is to provide digital solutions that improve school management, enhance student engagement, and streamline administrative processes.
